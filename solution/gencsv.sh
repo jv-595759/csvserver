@@ -28,3 +28,5 @@ else
   echo "Invalid input"
   exit 1
 fi
+chmod +r inputFile
+
